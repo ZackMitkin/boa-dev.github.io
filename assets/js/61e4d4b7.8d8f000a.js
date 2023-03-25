@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkboa_dev_github_io=self.webpackChunkboa_dev_github_io||[]).push([[5793],{8310:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/boa-dev.github.io/blog/tags/docusaurus","allTagsPath":"/boa-dev.github.io/blog/tags","count":3}')}}]);
