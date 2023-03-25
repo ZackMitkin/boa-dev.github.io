@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkboa_dev_github_io=self.webpackChunkboa_dev_github_io||[]).push([[7786],{4607:e=>{e.exports=JSON.parse('{"permalink":"/boa-dev.github.io/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
